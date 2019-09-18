@@ -1,2 +1,2 @@
 # Constant-shift-embedding
-implementation of the constant shift embedding (CSE) method
+Implementation of the constant shift embedding (CSE) method using similarity or dissimilarity matrices.
